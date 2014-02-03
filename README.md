@@ -1,0 +1,1 @@
+A simple employee database created in Node.JS 
